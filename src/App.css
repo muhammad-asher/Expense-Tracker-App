@@ -48,7 +48,7 @@ h4 {
 }
 
 .inc-exp-container {
-	background-color: lightblue;
+	background-color:lightskyblue;
 	box-shadow: var(--box-shadow);
 	padding: 20px;
 	display: flex;
@@ -62,7 +62,7 @@ h4 {
 }
 
 .inc-exp-container > div:first-of-type {
-	border-right: 1px solid #dedede;
+	border-right: 1px solid black;
 }
 
 .money {
