@@ -1,5 +1,6 @@
 Expense Tracker App Link : http://expensetrackerapp_m_asher.surge.sh/
 
+![Expense Tracker App](https://user-images.githubusercontent.com/70090506/111736852-6aa0cc80-88a0-11eb-901f-daec88af8fcd.png)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
